@@ -27,7 +27,7 @@ I thrive in startup environments — taking products from **0 → 1**, leading a
 
 ## 💼 Experience  
 
-### 🧠 **Software Engineer | Orvion**  
+### 🧠 **Software Engineer | GamesPro**  
 - Designed and deployed **scalable microservices** using **Node.js, Express, and MongoDB**  
 - Implemented **AI-driven automation** with **LangChain**, **OpenAI APIs**, and **vector DBs**  
 - Led **backend performance improvements**, reducing latency & improving reliability  
